@@ -106,18 +106,13 @@ Use the below table to indicate any Generative AI or writing assistance tools us
 An example has been included. Please replace this with any actual tools, and add more as necessary.
 
 
-### Tool Used: ChatGPT
-**Nature of Use** Finding relevant design theory.
+### Tool Used: Grammarly
+**Nature of Use** Grammar, spelling, and punctuation checking. 
 
-**Evidence Attached?** Screenshot of ChatGPT conversation included in the folder "GenAI" in this repo.
+**Evidence Attached?** ![This is the alt text for an image!](GenAI/Grammarly%20-%20Evidence%20of%20Use.png)
 
-**Additional Notes:** I used ChatGPT to try and find some more relevant design theory that I could apply to my game. After googling them, however, I found most of them were inaccurate, and some didn't exist. One theory mentioned, however, was useful, and I've incorporated it into my work.
+The above image can also be found under the folder "GenAI" in this repo. 
 
-### Tool Used: Example
-**Nature of Use** Example Text
-
-**Evidence Attached?** Example Text
-
-**Additional Notes:** Example Text
+**Additional Notes:** Grammarly was used strictly as a tool in Pages to check grammar, spelling, and punctuation of written material in this design document. 
 
 
