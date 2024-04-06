@@ -34,7 +34,7 @@ Later encounters in this Section provide players with the Gun and pit them again
 
 Progression through Section 1 rewards the players with the first key which in combination with the UI feedback scaffolds an understanding of the level objective - to collect keys and progress. 
 
-![This is the alt text for an image!](DocImages/Discovery%20-%20Key.png)
+![This is the alt text for an image!](DocImages/Drama%20-%20Key.png)
 
 ### 1.2. Drama
 What is the intensity curve? How does your design facilitate increasing yet modulating intensity, with moments of tension and relief? 
