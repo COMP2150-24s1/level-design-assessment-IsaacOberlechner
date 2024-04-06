@@ -38,7 +38,7 @@ Storyboards can be combined when multiple mechanics are introduced within a sing
 You should restructure the headings below to match the order they appear in your level.
 
 ### 2.1.  Spikes and Chompers
-![This is the alt text for an image!](DocImages/#2/Storyboard%20-%20Spikes%20and%20Chomper.png)
+![This is the alt text for an image!](DocImages/SpikesChompers.png)
 
 ### 2.2. Passthrough Platforms and Weapon Pickup (Staff)
 
