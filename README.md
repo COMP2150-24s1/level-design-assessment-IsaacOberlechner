@@ -61,17 +61,19 @@ No additional words are necessary for this section (any words should only be wit
 
 ![This is the alt text for an image!](DocImages/Molecule%20Diagram.png)
 
+### 3.2. Level Maps
+
 Level Map Key: ![This is the alt text for an image!](DocImages/Level%20Map%20-%20Key.png)
 
-### 3.2. Level Map – Section 1
+### 3.2.1. Level Map - Section 1
 
 ![This is the alt text for an image!](DocImages/Level%20Map%20-%20Section%201.png)
 
-### 3.3. Level Map – Section 2
+### 3.2.2. Level Map – Section 2
 
 ![This is the alt text for an image!](DocImages/Level%20Map%20-%20Section%202.png)
 
-### 3.4. Level Map – Section 3
+### 3.2.3 Level Map – Section 3
 
 ![This is the alt text for an image!](DocImages/Level%20Map%20-%20Section%203.png)
 
