@@ -81,7 +81,7 @@ Level Map Key: ![This is the alt text for an image!](DocImages/Level%20Map%20-%2
 Reflect on how iterative design helped to improve your level. Additional prototypes and design artefacts should be included to demonstrate that you followed an iterative design process (e.g. pictures of paper prototypes, early grey-boxed maps, additional storyboards of later gameplay sequences, etc.). You can also use this section to justify design changes made in Unity after you drew your level design maps shown in section 3. 
 
 
-![This is the alt text for an image!](DocImages/Prototype%20-%20Section%201.pdf)
+![This is the alt text for an image!](DocImages/Prototype%20-%20Section%201.png)
 
 You should conclude by highlighting a specific example of an encounter, or another aspect of your level design, that could be improved through further iterative design.
 
