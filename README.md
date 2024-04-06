@@ -19,7 +19,22 @@ Example:
 Outline and justify how your level design facilitates the core player experience goals outlined in the assignment spec. Each section should be supported by specific examples and screenshots of your game encounters that highlight design choices made to facilitate that particular experience.
 
 ### 1.1. Discovery
-What does the player learn? How does your encounter and broader level design facilitate learning in a way that follows good design practice?
+
+This level facilitates discovery through the scaffolding of various mechanics. On a broader level, discovery is the focus of Section 1 where the player must learn how to use the core mechanics of the game in various contexts. The first encounter in Section 1 pits the player against a spike and a Chomper with no weapons. This teaches the player that contact with Chompers and spikes damages the player and they must use movement and jumping to avoid them. 
+
+![This is the alt text for an image!](DocImages/Discovery%20-%20Spikes%20and%20Chompers.png)
+
+The next encounter provides players with the Staff - a tool to both break through environmental obstacles (e.g. breakable wall) and defend themselves against close-range threats. 
+
+![This is the alt text for an image!](DocImages/Discovery%20-%20Passthrough%20Platforms,%20Staff,%20Checkpoint,%20Health.png)
+
+Later encounters in this Section provide players with the Gun and pit them against acid, a Spitter, and a moving platform. The player learns to utilize the Gun as a long-range tool to activate switches (e.g. to move the platform) and defend themselves from a distance. 
+
+![This is the alt text for an image!](DocImages/Discovery%20-%20Gun,%20Spitter,%20Acid,%20Moving%20Platofrm.png)
+
+Progression through Section 1 rewards the players with the first key which in combination with the UI feedback scaffolds an understanding of the level objective - to collect keys and progress. 
+
+![This is the alt text for an image!](DocImages/Discovery%20-%20Key.png)
 
 ### 1.2. Drama
 What is the intensity curve? How does your design facilitate increasing yet modulating intensity, with moments of tension and relief? 
