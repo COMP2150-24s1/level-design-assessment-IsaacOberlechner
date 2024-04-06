@@ -39,7 +39,7 @@ You should restructure the headings below to match the order they appear in your
 
 ### 2.1.  Spikes and Chompers
 
-![This is the alt text for an image!](DocImages/SpikesChompers.png)
+![This is the alt text for an image!](DocImages/Storyboard%20-%20Spikes%20and%20Chompers.png)
 
 ### 2.2. Passthrough Platforms and Weapon Pickup (Staff)
 
