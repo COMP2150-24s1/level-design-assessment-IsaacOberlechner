@@ -39,6 +39,25 @@ Progression through Section 1 rewards the players with the first key which in co
 ### 1.2. Drama
 What is the intensity curve? How does your design facilitate increasing yet modulating intensity, with moments of tension and relief? 
 
+The level has an intensity curve characterised by a steady flow of tense and relieving encounters. The encounters are facilitated mainly by rewards and penalties, with some moments of uncertainty. 
+
+For example, Section 3 presents the player with a large drop they must go down to progress. 
+
+![This is the alt text for an image!](DocImages/Drama%20-%20Hole.png)
+
+The player’s previous encounters with drops have been mixed - on one hand, the drop after the Section 1 key rewards the player with progression. On the other, the drop in the tench in Section 2 put the player in danger. The uncertainty creates tension due to not knowing whether the player will be safe or not. 
+
+![This is the alt text for an image!](DocImages/Drama%20-%20Key.png)
+![This is the alt text for an image!](DocImages/Drama%20-%20trench.png)
+
+Dropping down the hole reveals an acid pit and a Spitter which the player must fight against or risk taking damage and losing progression, further facilitating tension. 
+
+![This is the alt text for an image!](DocImages/Drama%20-%20Cavern.png)
+
+Completing this encounter rewards the player with access to health and an alternative shortcut down to the cavern. These rewards relieve the player by contributing to their progression - they are strengthened for later encounters with health and can now utilise a shortcut which saves them from completing a portion of the cavern encounter again. 
+
+![This is the alt text for an image!](DocImages/Drama%20-%20Rewards.png)
+
 ### 1.3. Challenge
 What are the main challenges? How have you designed and balanced these challenges to control the difficulty curve and keep the player in the flow channel?
 
