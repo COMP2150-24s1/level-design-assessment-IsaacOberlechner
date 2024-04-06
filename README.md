@@ -109,9 +109,7 @@ An example has been included. Please replace this with any actual tools, and add
 ### Tool Used: Grammarly
 **Nature of Use** Grammar, spelling, and punctuation checking. 
 
-**Evidence Attached?** ![This is the alt text for an image!](GenAI/Grammarly%20-%20Evidence%20of%20Use.png)
-
-The above image can also be found under the folder "GenAI" in this repo. 
+**Evidence Attached?** Evidence of the use of Grammarly can be found under the folder "GenAI" in this repo. 
 
 **Additional Notes:** Grammarly was used strictly as a tool in Pages to check grammar, spelling, and punctuation of written material in this design document. 
 
