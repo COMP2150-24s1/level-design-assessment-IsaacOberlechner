@@ -129,7 +129,7 @@ No additional words are necessary for this section (any words should only be wit
 
 ![This is the alt text for an image!](DocImages/Molecule%20Diagram.png)
 
-### 3.2. Level Maps
+### 3.2. Level Maps - Key
 
 Level Map Key: ![This is the alt text for an image!](DocImages/Level%20Map%20-%20Key.png)
 
