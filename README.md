@@ -20,15 +20,15 @@ Outline and justify how your level design facilitates the core player experience
 
 ### 1.1. Discovery
 
-This level facilitates discovery through the scaffolding of various mechanics. On a broader level, discovery is the focus of Section 1 where the player must learn how to use the core mechanics of the game in various contexts. The first encounter in Section 1 pits the player against a spike and a Chomper with no weapons. This teaches the player that contact with Chompers and spikes damages the player and they must use movement and jumping to avoid them. 
+This level facilitates discovery through the scaffolding of various mechanics. Discovery is delivered in Section One where the player learns the core mechanics via structured encounters. The first encounter in Section 1 pits the player against a spike and a Chomper with no weapons. This teaches the player that Chompers and spikes damage the player and movement and jumping must be utilised to avoid contact. 
 
 ![This is the alt text for an image!](DocImages/Discovery%20-%20Spikes%20and%20Chompers.png)
 
-The next encounter provides players with the Staff - a tool to both break through environmental obstacles (e.g. breakable wall) and defend themselves against close-range threats. 
+The following encounter provides players with the Staff - a tool to break through environmental obstacles (e.g. a breakable wall) and defend themselves against close-range threats. 
 
 ![This is the alt text for an image!](DocImages/Discovery%20-%20Passthrough%20Platforms,%20Staff,%20Checkpoint,%20Health.png)
 
-Later encounters in this Section provide players with the Gun and pit them against acid, a Spitter, and a moving platform. The player learns to utilize the Gun as a long-range tool to activate switches (e.g. to move the platform) and defend themselves from a distance. 
+Later encounters in this Section provide players with the Gun and pit them against acid, a Spitter, and a moving platform. The player learns to utilise the Gun as a long-range tool to activate switches (e.g. to move the platform) and defend themselves from a distance. Progression through Section 1 rewards the players with the first key, signified by UI feedback. This scaffolds an understanding of the level objective, that is, to collect three keys. 
 
 ![This is the alt text for an image!](DocImages/Discovery%20-%20Gun,%20Spitter,%20Acid,%20Moving%20Platofrm.png)
 
@@ -39,37 +39,38 @@ Progression through Section 1 rewards the players with the first key which in co
 ### 1.2. Drama
 What is the intensity curve? How does your design facilitate increasing yet modulating intensity, with moments of tension and relief? 
 
-The level has an intensity curve characterised by a steady flow of tense and relieving encounters. The encounters are facilitated mainly by rewards and penalties, with some moments of uncertainty. 
+The level has an intensity curve characterised by a steady flow of tense and relieving encounters. The encounters are facilitated mainly by rewards and penalties, with some moments of uncertainty.  
 
-For example, Section 3 presents the player with a large drop they must go down to progress. 
+For example, Section Three presents the player with a drop they must go down to progress. 
 
 ![This is the alt text for an image!](DocImages/Drama%20-%20Hole.png)
 
-The player’s previous encounters with drops have been mixed - on one hand, the drop after the Section 1 key rewards the player with progression. On the other, the drop in the tench in Section 2 put the player in danger. The uncertainty creates tension due to not knowing whether the player will be safe or not. 
+The player has previously learned that drops can be rewarding (e.g. dropping to the portal after collecting the first Key) or dangerous (e.g. dropping into the trench with the Chomper). Tension arises due to uncertainty of whether the current drop will lead to reward or danger.  
 
 ![This is the alt text for an image!](DocImages/Drama%20-%20Key.png)
 ![This is the alt text for an image!](DocImages/Drama%20-%20trench.png)
 
-Dropping down the hole reveals an acid pit and a Spitter which the player must fight against or risk taking damage and losing progression, further facilitating tension. 
+Dropping down the hole reveals an acid pit and a Spitter the player must fight against or risk taking damage and losing progression, further facilitating tension. 
 
 ![This is the alt text for an image!](DocImages/Drama%20-%20Cavern.png)
 
-Completing this encounter rewards the player with access to health and an alternative shortcut down to the cavern. These rewards relieve the player by contributing to their progression - they are strengthened for later encounters with health and can now utilise a shortcut which saves them from completing a portion of the cavern encounter again. 
+Completing this encounter rewards the player with access to health and an alternative shortcut down to the cavern. These rewards offer the player relief by contributing to their progression - they are strengthened for later encounters with health and have access to a shortcut, situated at their previous checkpoint, that bypasses a portion of the cavern. 
 
 ![This is the alt text for an image!](DocImages/Drama%20-%20Rewards.png)
+![This is the alt text for an image!](DocImages/Drama%20-%20Checkpoint.png)
 
 ### 1.3. Challenge
 What are the main challenges? How have you designed and balanced these challenges to control the difficulty curve and keep the player in the flow channel?
 
-The level consists of physical challenges that exercise core intrinsic skills. The difficulty curve represents incrementing difficulty from easy (Section 1), to intermediate (Sections 2 and 3). Section 1 sets the foundation with easy challenges engaging core skills. Sections 2 and 3 build upon the foundation through the addition of coordination. Therefore, difficulty is gradually implemented allowing the player to feel challenged but capable throughout the level thus maintaining flow. 
+The level consists of physical challenges that exercise core intrinsic skills. The difficulty curve represents incrementing difficulty from easy (Section One) to intermediate (Sections Two and Three). Section One sets the foundation with easy challenges engaging core skills. Sections Two and Three build upon the foundation through the addition of coordination. The difficulty is gradually implemented so the player can maintain flow by feeling challenged yet capable throughout the level. 
 
-Section 1 engages the core skills of movement and jumping with horizontal traversal (e.g. jumping over spike and Chomper), vertical traversal (e.g. climbing the hill), and a combination of both (e.g. moving platform). Weapon skills are engaged through light use of the staff and gun. 
+Section One engages the core skills of movement and jumping with horizontal traversal (e.g. jumping over spike and Chomper), vertical traversal (e.g. climbing the hill), and a combination of both (e.g. moving platform). Weapon skills are engaged through the light use of the staff and gun. 
 
 ![This is the alt text for an image!](DocImages/Discovery%20-%20Spikes%20and%20Chompers.png)
 ![This is the alt text for an image!](DocImages/Discovery%20-%20Passthrough%20Platforms,%20Staff,%20Checkpoint,%20Health.png)
 ![This is the alt text for an image!](DocImages/Challenge%20-%20Moving%20Platform.png)
 
-Section 2 builds upon the challenge by adding the element of coordination. For example, the player needs to coordinate jumping to reach a health pickup. The player also needs to coordinate shots to defeat Spitters.
+Section Two builds upon the challenge by adding the element of coordination. For example, the player coordinates their jumping to reach a health pickup. The player also needs to coordinate shots to defeat Spitters.
 
 ![This is the alt text for an image!](DocImages/Challenge%20-%20Health.png) 
 ![This is the alt text for an image!](DocImages/Challenge%20-%20Spitters.png)
@@ -81,23 +82,16 @@ Section 3 increments the challenge by adding instant death via acid pits, requir
 ### 1.4. Exploration
 How does your level design facilitate autonomy and invite the player to explore? How do your aesthetic and layout choices create distinct and memorable spaces and/or places?
 
-This level encourages exploration through the integration of non-linear paths. This grants players autonomy through a sense of discovering the “correct” path for themselves or rewarding them with combat and heath. 
+This level encourages exploration through the integration of non-linear paths. This grants players autonomy by allowing them to find the “correct” path by exploring the space or rewarding them with combat and heath. 
 
-For example, the player starts the level at the portal and aesthetically is presented with an open space that has 3 obvious paths - left, right or down. The openness of the space invites the player to explore and learn for themselves they can only take the left path at first rather than outlining the path for them. Though structurally linear, the open space provides a sense of autonomy that allows the players to feel rewarded for exploration. 
+For example, the player starts the level at the portal and is aesthetically presented with an open space presenting three paths - left, right or down. The openness of the space invites the player to explore and consequently learn that they must first take the left path to progress the level. Though structurally linear, this encounter refrains from telling that player where to go explicitly. Instead, the open space provides a sense of autonomy via discovering the correct path through exploration.
 
-Spawn:
 ![This is the alt text for an image!](DocImages/Exploration%20-%20Spawn.png)
-
-Left: 
 ![This is the alt text for an image!](DocImages/Exploration%20-%20Section%201.png)
-
-Right:
 ![This is the alt text for an image!](DocImages/Exploration%20-%20Section%202.png)
-
-Down:
 ![This is the alt text for an image!](DocImages/Exploration%20-%20Section%203.png)
 
-In Section 3, the player is given the option to descend lower underground which rewards them with light combat and health. If the player descends, they will need to go right to attack a Chomper and collect health. This creates distinctiveness to the path and layout of Section 3 where the players are required to go left to progress.
+In Section Three, the player can choose to explore the cavern further underground. Moving through this section rewards them with light combat and health. If the player descends, they must go right to attack a Chomper and collect health. This creates a distinct space in contrast to the path and layout of the rest of Section Three where the players progress the section by moving left.
 
 ![This is the alt text for an image!](DocImages/Exploration%20-%20Descent.png)
 ![This is the alt text for an image!](DocImages/Exploration%20-%20Going%20Left.png)
