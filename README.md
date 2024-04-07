@@ -3,20 +3,7 @@
 ### Name: Isaac Oberlechner
 ### Student number: 46615962
 
-This document discusses and reflects on the design of your platformer level for the Level Design assessment. It should be 1500 words. Make sure you delete this and all other instructional text throughout the document before checking your word count prior to submission. Hint: You can check word count by copying this text into a Word or Google doc.
-
-Your document must include images. To insert an image into your documentation, place it in the "DocImages" folder in this repo, then place the below text where you want the image to appear:
-
-```
-![Place any alt text here](DocImages/<IMAGE NAME AND FILE EXTENSION>)
-```
-
-Example:
-
-![This is the alt text for an image!](DocImages/exampleimage.png)
-
 ## 1. Player Experience (~700 words)
-Outline and justify how your level design facilitates the core player experience goals outlined in the assignment spec. Each section should be supported by specific examples and screenshots of your game encounters that highlight design choices made to facilitate that particular experience.
 
 ### 1.1. Discovery
 
@@ -37,7 +24,6 @@ Progression through Section 1 rewards the players with the first key which in co
 ![This is the alt text for an image!](DocImages/Drama%20-%20Key.png)
 
 ### 1.2. Drama
-What is the intensity curve? How does your design facilitate increasing yet modulating intensity, with moments of tension and relief? 
 
 The level has an intensity curve characterised by a steady flow of tense and relieving encounters. The encounters are facilitated mainly by rewards and penalties, with some moments of uncertainty.  
 
@@ -60,7 +46,6 @@ Completing this encounter rewards the player with access to health and an altern
 ![This is the alt text for an image!](DocImages/Drama%20-%20Checkpoint.png)
 
 ### 1.3. Challenge
-What are the main challenges? How have you designed and balanced these challenges to control the difficulty curve and keep the player in the flow channel?
 
 The level consists of physical challenges that exercise core intrinsic skills. The difficulty curve represents incrementing difficulty from easy (Section One) to intermediate (Sections Two and Three). Section One sets the foundation with easy challenges engaging core skills. Sections Two and Three build upon the foundation through the addition of coordination. The difficulty is gradually implemented so the player can maintain flow by feeling challenged yet capable throughout the level. 
 
@@ -80,7 +65,6 @@ Section 3 increments the challenge by adding instant death via acid pits, requir
 ![This is the alt text for an image!](DocImages/Drama%20-%20Cavern.png)
 
 ### 1.4. Exploration
-How does your level design facilitate autonomy and invite the player to explore? How do your aesthetic and layout choices create distinct and memorable spaces and/or places?
 
 This level encourages exploration through the integration of non-linear paths. This grants players autonomy by allowing them to find the “correct” path by exploring the space or rewarding them with combat and heath. 
 
