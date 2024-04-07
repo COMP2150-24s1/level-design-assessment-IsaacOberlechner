@@ -91,23 +91,35 @@ You should restructure the headings below to match the order they appear in your
 
 ![This is the alt text for an image!](DocImages/Storyboard%20-%20Spikes%20and%20Chompers.png)
 
+This encounter scaffolds learning to core uses of jumping and movement - to traverse the level and to evade enemies. By placing this encounter first they are defenceless and must learn how to take damage, avoid damage, and how traversal is required to progress the level. 
+
 ### 2.2. Passthrough Platforms and Weapon Pickup (Staff)
 
 ![This is the alt text for an image!](DocImages/Storyboard%20-%20Staff%20and%20Chomper.png)
+
+The second encounter offers players a new traversal method (e.g. passing between platforms) and the ability to defend themselves at close range - both of which are required skills later in the level.  Once the staff is acquired, the player learns two key functionalities of it - to break environmental obstacles (i.e. break the wall) and defend themselves (i.e. kill Chomper). 
 
 ### 2.3. Checkpoints and Health Pickups
 
 ![This is the alt text for an image!](DocImages/Storyboard%20-%20Checkpoint%20and%20Health.png)
 
+As the player has already had some light experience in combat, they are introduced to ways they can strengthen their likelihood of survival. Checkpoints offer a way to save their progress and prevent repeating previous encounters while health pickups strengthen their chances of progressing through upcoming encounters. 
+
 ### 2.4. Weapon Pickup (Gun)
 
 ![This is the alt text for an image!](DocImages/Storyboard%20-%20Gun.png)
+
+Now familiar with the movement and the staff, the player must now use the staff to access their next essential tool. By utilizing a previously learned skill (i.e. breaking environmental obstacles with the staff) the player is rewarded with the gun, motivating them to progress forward to find its function. 
 
 ### 2.5. Acid, Moving Platforms, and Spitters
 
 ![This is the alt text for an image!](DocImages/Storyboard%20-%20Acid,%20Platform,%20Spitter.png)
 
+The player must learn how to utilize the gun and execute an intermediate level of movement and jumping. The player learns the gun activates switches (i.e. for the moving platform) and defends them long-range (e.g. shooting the Spitter). Moreover, contact with the acid pit immediately kills the player, placing them back at the last checkpoint. Thus, the player must utilise coordinated jumping and moving to jump onto the moving platform and successfully progress.
+
 ### 2.6. Keys
+
+The player has learned all the core mechanics and now has access to the first key. The key is situated at the end to reward the player for learning the basic mechanics and to scaffold the understanding that collecting a key signals the end of the level. The player can now jump down to the levels starting point (i.e. the Portal) and progress with Sections Two and Three.  
 
 ![This is the alt text for an image!](DocImages/Storyboard%20-%20Keys.png)
 
