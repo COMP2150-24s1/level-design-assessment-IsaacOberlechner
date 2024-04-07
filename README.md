@@ -65,7 +65,9 @@ The level consists of physical challenges that exercise core intrinsic skills. T
 
 Section 1 engages the core skills of movement and jumping with horizontal traversal (e.g. jumping over spike and Chomper), vertical traversal (e.g. climbing the hill), and a combination of both (e.g. moving platform). Weapon skills are engaged through light use of the staff and gun. 
 
-![This is the alt text for an image!](DocImages/Discovery%20-%20Gun,%20Spitter,%20Acid,%20Moving%20Platofrm.png)
+![This is the alt text for an image!](DocImages/Discovery%20-%20Spikes%20and%20Chompers.png)
+![This is the alt text for an image!](DocImages/Discovery%20-%20Passthrough%20Platforms,%20Staff,%20Checkpoint,%20Health.png)
+![This is the alt text for an image!](DocImages/Challenge%20-%20Moving%20Platform.png)
 
 Section 2 builds upon the challenge by adding the element of coordination. For example, the player needs to coordinate jumping to reach a health pickup. The player also needs to coordinate shots to defeat Spitters.
 
@@ -78,6 +80,27 @@ Section 3 increments the challenge by adding instant death via acid pits, requir
 
 ### 1.4. Exploration
 How does your level design facilitate autonomy and invite the player to explore? How do your aesthetic and layout choices create distinct and memorable spaces and/or places?
+
+This level encourages exploration through the integration of non-linear paths. This grants players autonomy through a sense of discovering the “correct” path for themselves or rewarding them with combat and heath. 
+
+For example, the player starts the level at the portal and aesthetically is presented with an open space that has 3 obvious paths - left, right or down. The openness of the space invites the player to explore and learn for themselves they can only take the left path at first rather than outlining the path for them. Though structurally linear, the open space provides a sense of autonomy that allows the players to feel rewarded for exploration. 
+
+Spawn:
+![This is the alt text for an image!](DocImages/Exploration%20-%20Spawn.png)
+
+Left: 
+![This is the alt text for an image!](DocImages/Exploration%20-%20Section%201.png)
+
+Right:
+![This is the alt text for an image!](DocImages/Exploration%20-%20Section%202.png)
+
+Down:
+![This is the alt text for an image!](DocImages/Exploration%20-%20Section%203.png)
+
+In Section 3, the player is given the option to descend lower underground which rewards them with light combat and health. If the player descends, they will need to go right to attack a Chomper and collect health. This creates distinctiveness to the path and layout of Section 3 where the players are required to go left to progress.
+
+![This is the alt text for an image!](DocImages/Exploration%20-%20Descent.png)
+![This is the alt text for an image!](DocImages/Exploration%20-%20Going%20Left.png)
 
 ## 2. Core Gameplay (~400 words)
 A section on Core Gameplay, where storyboards are used to outline how you introduce the player to each of the required gameplay elements in the first section of the game. Storyboards should follow the format provided in lectures.
