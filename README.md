@@ -5,6 +5,7 @@
 
 ## 1. Player Experience (~700 words)
 
+
 ### 1.1. Discovery
 
 This level facilitates discovery through the scaffolding of various mechanics. Discovery is delivered in Section One where the player learns the core mechanics via structured encounters. The first encounter in Section 1 pits the player against a spike and a Chomper with no weapons. This teaches the player that Chompers and spikes damage the player and movement and jumping must be utilised to avoid contact. 
@@ -81,11 +82,7 @@ In Section Three, the player can choose to explore the cavern further undergroun
 ![This is the alt text for an image!](DocImages/Exploration%20-%20Going%20Left.png)
 
 ## 2. Core Gameplay (~400 words)
-A section on Core Gameplay, where storyboards are used to outline how you introduce the player to each of the required gameplay elements in the first section of the game. Storyboards should follow the format provided in lectures.
 
-Storyboards can be combined when multiple mechanics are introduced within a single encounter. Each section should include a sentence or two to briefly justify why you chose to introduce the mechanic/s to the player in that sequence.
-
-You should restructure the headings below to match the order they appear in your level.
 
 ### 2.1.  Spikes and Chompers
 
