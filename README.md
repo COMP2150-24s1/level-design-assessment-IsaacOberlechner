@@ -121,9 +121,6 @@ The player has learned all the core mechanics and now has access to the first ke
 ![This is the alt text for an image!](DocImages/Storyboard%20-%20Keys.png)
 
 ## 3. Spatiotemporal Design
-A section on Spatiotemporal Design, which includes your molecule diagram and annotated level maps (one for each main section of your level). These diagrams may be made digitally or by hand, but must not be created from screenshots of your game. The annotated level maps should show the structure you intend to build, included game elements, and the path the player is expected to take through the level. Examples of these diagrams are included in the level design lectures.
-
-No additional words are necessary for this section (any words should only be within your images/diagrams).
  
 ### 3.1. Molecule Diagram
 
@@ -156,20 +153,15 @@ Section One prototypes demonstrated that players may skip the Chomper in the ori
 ![This is the alt text for an image!](DocImages/Prototype%20-%20Section%202.png)
 ![This is the alt text for an image!](DocImages/Prototype%20-%20Trench.png)
 
-Section Two prototypes demonstrated little challenge compared to Section One. Moreover, the original trench encounter appeared too close quarters for traversal. Playtesting in Unity confirmed the latter. As such, spikes were removed from the trench, a Chomper was removed, and more space was made making it a less overwhelming but still moderately challenging encounter. To enhance the challenge in the rest of the section, the original passthrough platform (leading to health) was removed and players now had to coordinate their jumps to reach the health. Players also tried to explore the top of the trench at times and as such an elevator and Spitter were added in this location to reward players for exploring here. 
+Section Two prototypes demonstrated little challenge compared to Section One. Moreover, the original trench encounter appeared too close quarters for traversal. Playtesting in Unity confirmed the latter. As such, a Chomper was removed and more space was made making it a less overwhelming but still moderately challenging encounter. To enhance the challenge in the rest of the section, the original passthrough platform (leading to health) was removed and players now had to coordinate their jumps to reach the health. Players also tried to explore the top of the trench at times and as such an elevator and Spitter were added in this location to reward players for exploring here. 
 
 ![This is the alt text for an image!](DocImages/Prototype%20-%20Section%203.png)
-![This is the alt text for an image!](DocImages/Prototype%20-%20Open%20Door%20(Section%203).png)
-![This is the alt text for an image!](DocImages/Prototype%20-%20Pressure%20Pad%20to%20Open%20Door%20(Section%203).png)
 
 Section Three prototypes revealed the section was too claustrophobic. Playtesting confirmed this as players would bounce off the roof into the acid. The second spitter was also difficult to hit and spikes made it difficult to traverse. As such, the space became wide, spikes were reduced and the second Chomper was moved to a spot that was easier to hit. Moreover, players now had access to a health pickup and a shortcut. After these iterations, Section Three became moderately challenging, rather than highly challenging. The addition of the health and shortcut encounter rebalanced the dramatic curve making the difficulty increase at a rate consistent with the rest of the level. 
 
 Section Two contains few encounters that focus on challenging the player beyond the trench. Section Two could incorporate more encounters that challenge the player. Moreover, encounters could focus on staff and gun mechanics as these mechanics were mainly used for environmental purposes (e.g. activating switch, breaking walls) and had limited defensive use. Iterations focusing on these aspects could improve the variety of encounters throughout the level. 
 
 ## Generative AI Use Acknowledgement
-
-Use the below table to indicate any Generative AI or writing assistance tools used in creating your document. Please be honest and thorough in your reporting, as this will allow us to give you the marks you have earnt. Place any drafts or other evidence inside this repository. This form and related evidence do not count to your word count.
-An example has been included. Please replace this with any actual tools, and add more as necessary.
 
 
 ### Tool Used: Grammarly
