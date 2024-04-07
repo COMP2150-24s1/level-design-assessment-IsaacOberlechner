@@ -61,6 +61,21 @@ Completing this encounter rewards the player with access to health and an altern
 ### 1.3. Challenge
 What are the main challenges? How have you designed and balanced these challenges to control the difficulty curve and keep the player in the flow channel?
 
+The level consists of physical challenges that exercise core intrinsic skills. The difficulty curve represents incrementing difficulty from easy (Section 1), to intermediate (Sections 2 and 3). Section 1 sets the foundation with easy challenges engaging core skills. Sections 2 and 3 build upon the foundation through the addition of coordination. Therefore, difficulty is gradually implemented allowing the player to feel challenged but capable throughout the level thus maintaining flow. 
+
+Section 1 engages the core skills of movement and jumping with horizontal traversal (e.g. jumping over spike and Chomper), vertical traversal (e.g. climbing the hill), and a combination of both (e.g. moving platform). Weapon skills are engaged through light use of the staff and gun. 
+
+![This is the alt text for an image!](DocImages/Discovery%20-%20Gun,%20Spitter,%20Acid,%20Moving%20Platofrm.png)
+
+Section 2 builds upon the challenge by adding the element of coordination. For example, the player needs to coordinate jumping to reach a health pickup. The player also needs to coordinate shots to defeat Spitters.
+
+![This is the alt text for an image!](DocImages/Challenge%20-%20Health.png) 
+![This is the alt text for an image!](DocImages/Challenge%20-%20Spitters.png)
+
+Section 3 increments the challenge by adding instant death via acid pits, requiring the player to execute a greater skill level to avoid losing progression. 
+
+![This is the alt text for an image!](DocImages/Drama%20-%20Cavern.png)
+
 ### 1.4. Exploration
 How does your level design facilitate autonomy and invite the player to explore? How do your aesthetic and layout choices create distinct and memorable spaces and/or places?
 
