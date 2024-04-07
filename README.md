@@ -116,7 +116,7 @@ The player must learn how to utilize the gun and execute an intermediate level o
 
 ### 2.6. Keys
 
-The player has learned all the core mechanics and now has access to the first key. The key is situated at the end to reward the player for learning the basic mechanics and to scaffold the understanding that collecting a key signals the end of the level. The player can now jump down to the levels starting point (i.e. the Portal) and progress with Sections Two and Three.  
+The player has learned all the core mechanics and now has access to the first key. The key is situated at the end to reward the player for learning the basic mechanics and to scaffold the understanding that collecting a key signals the end of the level. The player can now jump down to the level's starting point (i.e. the Portal) and progress with Sections Two and Three.  
 
 ![This is the alt text for an image!](DocImages/Storyboard%20-%20Keys.png)
 
@@ -146,12 +146,25 @@ Level Map Key: ![This is the alt text for an image!](DocImages/Level%20Map%20-%2
 ![This is the alt text for an image!](DocImages/Level%20Map%20-%20Section%203.png)
 
 ## 4. Iterative Design (~400 words)
-Reflect on how iterative design helped to improve your level. Additional prototypes and design artefacts should be included to demonstrate that you followed an iterative design process (e.g. pictures of paper prototypes, early grey-boxed maps, additional storyboards of later gameplay sequences, etc.). You can also use this section to justify design changes made in Unity after you drew your level design maps shown in section 3. 
-
 
 ![This is the alt text for an image!](DocImages/Prototype%20-%20Section%201.png)
+![This is the alt text for an image!](DocImages/Prototype%20-%20Staff,%20Chomper,%20and%20Checkpoint%20(Section%201).png)
+![This is the alt text for an image!](DocImages/Prototype%20-%20Gun%20and%20Spitter.png)
 
-You should conclude by highlighting a specific example of an encounter, or another aspect of your level design, that could be improved through further iterative design.
+Section One prototypes demonstrated that players may skip the Chomper in the original staff encounter. Playtesting confirmed this which meant players may not use the staff. As such, a breakable wall was added and the Chomper was moved to enhance the learning of the uses of the staff. Prototypes further showed that players may use the staff to kill the Spitter, instead of the gun. Playtesting confirmed this and showed that the Spitter was too challenging and frustrating to face. The Spitter was moved to the acid pit and players now had to use the gun to kill the Spitter and activate the platform, scaffolding its main uses. 
+
+![This is the alt text for an image!](DocImages/Prototype%20-%20Section%202.png)
+![This is the alt text for an image!](DocImages/Prototype%20-%20Trench.png)
+
+Section Two prototypes demonstrated little challenge compared to Section One. Moreover, the original trench encounter appeared too close quarters for traversal. Playtesting in Unity confirmed the latter. As such, spikes were removed from the trench, a Chomper was removed, and more space was made making it a less overwhelming but still moderately challenging encounter. To enhance the challenge in the rest of the section, the original passthrough platform (leading to health) was removed and players now had to coordinate their jumps to reach the health. Players also tried to explore the top of the trench at times and as such an elevator and Spitter were added in this location to reward players for exploring here. 
+
+![This is the alt text for an image!](DocImages/Prototype%20-%20Section%203.png)
+![This is the alt text for an image!](DocImages/Prototype%20-%20Open%20Door%20(Section%203).png)
+![This is the alt text for an image!](DocImages/Prototype%20-%20Pressure%20Pad%20to%20Open%20Door%20(Section%203).png)
+
+Section Three prototypes revealed the section was too claustrophobic. Playtesting confirmed this as players would bounce off the roof into the acid. The second spitter was also difficult to hit and spikes made it difficult to traverse. As such, the space became wide, spikes were reduced and the second Chomper was moved to a spot that was easier to hit. Moreover, players now had access to a health pickup and a shortcut. After these iterations, Section Three became moderately challenging, rather than highly challenging. The addition of the health and shortcut encounter rebalanced the dramatic curve making the difficulty increase at a rate consistent with the rest of the level. 
+
+Section Two contains few encounters that focus on challenging the player beyond the trench. Section Two could incorporate more encounters that challenge the player. Moreover, encounters could focus on staff and gun mechanics as these mechanics were mainly used for environmental purposes (e.g. activating switch, breaking walls) and had limited defensive use. Iterations focusing on these aspects could improve the variety of encounters throughout the level. 
 
 ## Generative AI Use Acknowledgement
 
@@ -160,6 +173,7 @@ An example has been included. Please replace this with any actual tools, and add
 
 
 ### Tool Used: Grammarly
+
 **Nature of Use** Grammar, spelling, and punctuation checking. 
 
 **Evidence Attached?** Evidence of the use of Grammarly can be found under the folder "GenAI" in this repo. 
